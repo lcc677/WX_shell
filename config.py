@@ -17,18 +17,18 @@ ROOT_CATEGORY = [
     # '6000',
 ]
 SOURCE_DB = {
-    'host': '192.168.3.121',
+    'host': '*********',
     'user': 'root',
     'password': 'x',
-    'db': 'ebay_product',
+    'db': '********',
     'port': 3306
 }
 
 WAIXIE_DB = {
-    'host': '127.0.0.1',
+    'host': '*********',
     'user': 'root',
     'password': 'x',
-    'db': 'waixie_new',
+    'db': '*********',
     'port': 3306
 }
 
