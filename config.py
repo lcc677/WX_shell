@@ -28,7 +28,7 @@ WAIXIE_DB = {
     'host': '*********',
     'user': 'root',
     'password': 'x',
-    'db': '*********',
+    'db': 'waixie_new',
     'port': 3306
 }
 
