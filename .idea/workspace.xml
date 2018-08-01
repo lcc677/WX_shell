@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe161ea2-1825-447f-a226-a1e5bcbd2847" name="Default" comment="" />
+    <list default="true" id="fe161ea2-1825-447f-a226-a1e5bcbd2847" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.py" afterPath="$PROJECT_DIR$/config.py" />
+    </list>
     <ignored path="waixie_db_manage.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,14 +31,14 @@
       <file leaf-file-name="completed_product_update.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waixie_commands/completed_product_update.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="550">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#25#40#0" expanded="true" />
-                <marker date="1533128460305" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
-                <marker date="1533128460305" expanded="true" signature="898:1061" ph="update waixi... " />
-                <marker date="1533128460305" expanded="true" signature="1538:1686" ph="update waixi... " />
-                <marker date="1533128460305" expanded="true" signature="2075:2235" ph="update waixi... " />
+                <marker date="1533130922609" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
+                <marker date="1533130922609" expanded="true" signature="898:1061" ph="update waixi... " />
+                <marker date="1533130922609" expanded="true" signature="1538:1686" ph="update waixi... " />
+                <marker date="1533130922609" expanded="true" signature="2075:2235" ph="update waixi... " />
               </folding>
             </state>
           </provider>
@@ -80,7 +84,7 @@
       <file leaf-file-name="price_change_update.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/waixie_commands/price_change_update.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1725">
+            <state relative-caret-position="600">
               <caret line="24" column="21" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="e#25#40#0" expanded="true" />
@@ -99,25 +103,7 @@
             <state relative-caret-position="2475">
               <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
               <folding>
-                <marker date="1533023560000" expanded="true" signature="25:63" ph="import ..." />
-                <marker date="1533023560000" expanded="true" signature="229:4434" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="234:276" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                <marker date="1533023560000" expanded="true" signature="397:4371" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="2940:3061" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="3091:4371" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="3508:3764" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="3609:3721" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="4485:7448" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="4496:4978" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                <marker date="1533023560000" expanded="true" signature="5502:6097" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="6124:6780" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="6808:7448" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="7483:8905" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="8406:8457" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="8708:8905" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="8737:8873" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="8934:9387" ph="..." />
-                <marker date="1533023560000" expanded="true" signature="9067:9271" ph="..." />
+                <element signature="e#25#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,8 +112,8 @@
       <file leaf-file-name="config.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3406">
-              <caret line="142" column="13" selection-start-line="142" selection-start-column="13" selection-end-line="142" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -157,6 +143,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -208,7 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -227,37 +216,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waixie_db_manage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waixie_db_manage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waixie_commands" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waixie_db_manage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waixie_db_manage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -517,10 +478,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="28" width="1922" height="1019" extended-state="7" />
+    <frame x="-1" y="28" width="1922" height="1019" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3342246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33850268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -600,10 +561,106 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
-            <marker date="1533128460305" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
-            <marker date="1533128460305" expanded="true" signature="898:1061" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="1538:1686" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="2075:2235" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
+            <marker date="1533130922609" expanded="true" signature="898:1061" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="1538:1686" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="2075:2235" ph="update waixi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waixie_commands/filter_product_danger_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+            <marker date="1533127446464" expanded="true" signature="606:761" ph="update missi... " />
+            <marker date="1533127446464" expanded="true" signature="1068:1218" ph="update waixi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waixie_commands/new_product_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+            <marker date="1533128453300" expanded="true" signature="4806:5399" ph="select item_... ebay_product_info_missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waixie_commands/price_change_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+            <marker date="1533128191326" expanded="true" signature="2555:2690" ph="select item_... ebay_product_num_change" />
+            <marker date="1533128191326" expanded="true" signature="3795:4177" ph="update waixi... " />
+            <marker date="1533128191326" expanded="true" signature="5562:6016" ph="update waixi... " />
+            <marker date="1533128191326" expanded="true" signature="6675:7102" ph="update waixi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waixie_commands/update_source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2150">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
+          <folding>
+            <marker date="1532943882000" expanded="true" signature="1318:1378" ph="select dange... waixie_sensitive_word" />
+            <marker date="1532943882000" expanded="true" signature="2608:2718" ph="select table... tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/database_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waixie_commands/completed_product_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+            <marker date="1533130922609" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
+            <marker date="1533130922609" expanded="true" signature="898:1061" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="1538:1686" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="2075:2235" ph="update waixi... " />
           </folding>
         </state>
       </provider>
@@ -632,25 +689,7 @@
         <state relative-caret-position="2500">
           <caret line="100" column="47" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
           <folding>
-            <marker date="1533023560000" expanded="true" signature="25:63" ph="import ..." />
-            <marker date="1533023560000" expanded="true" signature="229:4434" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="234:276" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="397:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="2940:3061" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3091:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3508:3764" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3609:3721" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4485:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4496:4978" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="5502:6097" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6124:6780" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6808:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="7483:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8406:8457" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8708:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8737:8873" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8934:9387" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="9067:9271" ph="..." />
+            <element signature="e#25#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -688,10 +727,10 @@
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
-            <marker date="1533128460305" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
-            <marker date="1533128460305" expanded="true" signature="898:1061" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="1538:1686" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="2075:2235" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
+            <marker date="1533130922609" expanded="true" signature="898:1061" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="1538:1686" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="2075:2235" ph="update waixi... " />
           </folding>
         </state>
       </provider>
@@ -720,25 +759,7 @@
         <state relative-caret-position="2925">
           <caret line="117" column="40" selection-start-line="117" selection-start-column="40" selection-end-line="117" selection-end-column="40" />
           <folding>
-            <marker date="1533023560000" expanded="true" signature="25:63" ph="import ..." />
-            <marker date="1533023560000" expanded="true" signature="229:4434" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="234:276" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="397:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="2940:3061" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3091:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3508:3764" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3609:3721" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4485:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4496:4978" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="5502:6097" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6124:6780" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6808:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="7483:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8406:8457" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8708:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8737:8873" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8934:9387" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="9067:9271" ph="..." />
+            <element signature="e#25#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -776,10 +797,10 @@
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
-            <marker date="1533128460305" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
-            <marker date="1533128460305" expanded="true" signature="898:1061" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="1538:1686" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="2075:2235" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
+            <marker date="1533130922609" expanded="true" signature="898:1061" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="1538:1686" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="2075:2235" ph="update waixi... " />
           </folding>
         </state>
       </provider>
@@ -808,25 +829,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1533023560000" expanded="true" signature="25:63" ph="import ..." />
-            <marker date="1533023560000" expanded="true" signature="229:4434" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="234:276" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="397:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="2940:3061" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3091:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3508:3764" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3609:3721" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4485:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4496:4978" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="5502:6097" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6124:6780" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6808:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="7483:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8406:8457" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8708:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8737:8873" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8934:9387" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="9067:9271" ph="..." />
+            <element signature="e#25#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -880,38 +883,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/database_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/waixie_commands/update_source.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2475">
           <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
           <folding>
-            <marker date="1533023560000" expanded="true" signature="25:63" ph="import ..." />
-            <marker date="1533023560000" expanded="true" signature="229:4434" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="234:276" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="397:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="2940:3061" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3091:4371" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3508:3764" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="3609:3721" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4485:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="4496:4978" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1533023560000" expanded="true" signature="5502:6097" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6124:6780" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="6808:7448" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="7483:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8406:8457" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8708:8905" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8737:8873" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="8934:9387" ph="..." />
-            <marker date="1533023560000" expanded="true" signature="9067:9271" ph="..." />
+            <element signature="e#25#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -924,20 +901,6 @@
             <element signature="e#25#40#0" expanded="true" />
             <marker date="1533127446464" expanded="true" signature="606:761" ph="update missi... " />
             <marker date="1533127446464" expanded="true" signature="1068:1218" ph="update waixi... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waixie_commands/completed_product_update.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-            <marker date="1533128460305" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
-            <marker date="1533128460305" expanded="true" signature="898:1061" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="1538:1686" ph="update waixi... " />
-            <marker date="1533128460305" expanded="true" signature="2075:2235" ph="update waixi... " />
           </folding>
         </state>
       </provider>
@@ -955,7 +918,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/waixie_commands/price_change_update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1725">
+        <state relative-caret-position="600">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="e#25#40#0" expanded="true" />
@@ -978,10 +941,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/util/database_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waixie_commands/completed_product_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+            <marker date="1533130922609" expanded="true" signature="368:510" ph="select item_... ebay_product_info_missing_value" />
+            <marker date="1533130922609" expanded="true" signature="898:1061" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="1538:1686" ph="update waixi... " />
+            <marker date="1533130922609" expanded="true" signature="2075:2235" ph="update waixi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3406">
-          <caret line="142" column="13" selection-start-line="142" selection-start-column="13" selection-end-line="142" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
       </provider>
